@@ -1,2 +1,2 @@
 # turbo-doodle
-for fun
+Может быть я буду кидать сюда будущие работы в Blender
